@@ -1,7 +1,6 @@
 # Sodicord [<img src="./browser/icon.png" width="225" align="left" alt="Sodicord">](https://github.com/Sodicord/Sodicord)
 
 [![Sodicord](https://img.shields.io/badge/Sodicord-grey?style=flat)](https://github.com/Sodicord/Sodicord)
-[![Tests](https://github.com/Sodicord/Sodicord/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/Sodicord/Sodicord/actions/workflows/test.yml)
 [![Discord](https://img.shields.io/discord/0.svg?color=768AD4&label=Discord&logo=discord&logoColor=white)](https://discord.gg/sodicord)
 
 Sodicord is a fork of [Equicord](https://github.com/Equicord/Equicord), with over 380+ plugins.

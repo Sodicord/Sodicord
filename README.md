@@ -1,12 +1,12 @@
-# Sodicord [<img src="./browser/icon.png" width="225" align="left" alt="Sodicord">](https://github.com/tmpngit/Sodicord)
+# Sodicord [<img src="./browser/icon.png" width="225" align="left" alt="Sodicord">](https://github.com/Sodicord/Sodicord)
 
-[![Sodicord](https://img.shields.io/badge/Sodicord-grey?style=flat)](https://github.com/tmpngit/Sodicord)
-[![Tests](https://github.com/tmpngit/Sodicord/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/Sodicord/Sodicord/actions/workflows/test.yml)
-[![Discord](https://img.shields.io/discord/0.svg?color=768AD4&label=Discord&logo=discord&logoColor=white)](https://discord.gg/5Xh2W87egW)
+[![Sodicord](https://img.shields.io/badge/Sodicord-grey?style=flat)](https://github.com/Sodicord/Sodicord)
+[![Tests](https://github.com/Sodicord/Sodicord/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/Sodicord/Sodicord/actions/workflows/test.yml)
+[![Discord](https://img.shields.io/discord/0.svg?color=768AD4&label=Discord&logo=discord&logoColor=white)](https://discord.gg/sodicord)
 
 Sodicord is a fork of [Equicord](https://github.com/Equicord/Equicord), with over 380+ plugins.
 
-You can join our [discord server (not made yet)](https://github.com/tmpngit/Sodicord) for commits, changes, chat or even support.<br><br></br>
+You can join our [discord server](https://discord.gg/sodicord) for commits, changes, chat or even support.<br><br></br>
 
 ### Extra included plugins
 <details>
@@ -155,7 +155,7 @@ You can join our [discord server (not made yet)](https://github.com/tmpngit/Sodi
 - Woof by Samwich
 - WriteUpperCase by Samwich & KrystalSkull
 - YoutubeDescription by arHSM
-- SodiRPC by TMPN
+- SodiRPC by Sodi
 - Saying some more soon
 
 ### Web Only
@@ -180,8 +180,8 @@ You can join our [discord server (not made yet)](https://github.com/tmpngit/Sodi
 ## Installing / Uninstalling
 
 Windows
-- [GUI](https://github.com/tmpngit/Sodicord/releases/latest/download/Sodicord.exe)
-- [CLI](https://github.com/tmpngit/Sodicord/releases/latest/download/SodicordCli.exe)
+- [GUI](https://github.com/Sodicord/Sodicord/releases/latest/download/Sodicord.exe)
+- [CLI](https://github.com/Sodicord/Sodicord/releases/latest/download/SodicordCli.exe)
 
 ## Installing Sodicord Devbuild
 
@@ -196,12 +196,12 @@ Install `pnpm`:
 npm i -g pnpm
 ```
 
-> :exclamation: **IMPORTANT** Make sure you aren't using an admin/root terminal from here onwards. It **will** mess up your Discord/Equicord instance and you **will** most likely have to reinstall.
+> :exclamation: **IMPORTANT** Make sure you aren't using an admin/root terminal from here onwards. It **will** mess up your Discord/Sodicord instance and you **will** most likely have to reinstall.
 
 Clone Sodicord:
 
 ```shell
-git clone https://github.com/tmpngit/Sodicord
+git clone https://github.com/Sodicord/Sodicord
 cd Sodicord
 ```
 

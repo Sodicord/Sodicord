@@ -1,4 +1,4 @@
-# Sodicord [<img src="./browser/icon.png" width="225" align="left" style="margin-bottom: 50px;" alt="Sodicord">](https://github.com/Sodicord/Sodicord)
+# Sodicord [<img src="./browser/icon.png" width="225" align="left" style="margin-bottom: 100px;" alt="Sodicord">](https://github.com/Sodicord/Sodicord)
 
 [![Sodicord](https://img.shields.io/badge/Sodicord-grey?style=flat)](https://github.com/Sodicord/Sodicord)
 [![Discord](https://img.shields.io/discord/0.svg?color=768AD4&label=Discord&logo=discord&logoColor=white)](https://discord.gg/sodicord)

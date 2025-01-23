@@ -103,7 +103,7 @@ async function init() {
                 if (Settings.updateRelaunch) return relaunch;
                 if (Settings.autoUpdateNotification)
                     setTimeout(() => showNotification({
-                        title: "Equicord has been updated!",
+                        title: "Sodicord has been updated!",
                         body: "Click here to restart",
                         permanent: true,
                         noPersist: true,
@@ -113,7 +113,7 @@ async function init() {
             }
 
             setTimeout(() => showNotification({
-                title: "A Equicord update is available!",
+                title: "A Sodicord update is available!",
                 body: "Click here to view the update",
                 permanent: true,
                 noPersist: true,

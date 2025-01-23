@@ -1,10 +1,10 @@
 {
     "manifest_version": 3,
     "minimum_chrome_version": "111",
-    "name": "Equicord Web",
-    "description": "The other cutest Discord mod now in your browser",
-    "author": "Thororen",
-    "homepage_url": "https://github.com/Equicord/Equicord",
+    "name": "Sodicord Web",
+    "description": "The fork of the cutest Discord client mod (Equicord) now in your browser",
+    "author": "Sodi",
+    "homepage_url": "https://github.com/Sodicord/Sodicord",
     "icons": {
         "128": "icon.png"
     },

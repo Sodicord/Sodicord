@@ -1,16 +1,16 @@
 # Sodicord [<img src="./browser/icon.png" width="225" align="left" alt="Sodicord">](https://github.com/tmpngit/Sodicord)
 
-[![Equibop](https://img.shields.io/badge/Equibop-grey?style=flat)](https://github.com/Equicord/Equibop)
-[![Tests](https://github.com/Equicord/Equicord/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/Equicord/Equicord/actions/workflows/test.yml)
-[![Discord](https://img.shields.io/discord/1207691698386501634.svg?color=768AD4&label=Discord&logo=discord&logoColor=white)](https://discord.gg/5Xh2W87egW)
+[![Sodicord](https://img.shields.io/badge/Sodicord-grey?style=flat)](https://github.com/tmpngit/Sodicord)
+[![Tests](https://github.com/tmpngit/Sodicord/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/Sodicord/Sodicord/actions/workflows/test.yml)
+[![Discord](https://img.shields.io/discord/0.svg?color=768AD4&label=Discord&logo=discord&logoColor=white)](https://discord.gg/5Xh2W87egW)
 
-Equicord is a fork of [Vencord](https://github.com/Vendicated/Vencord), with over 300+ plugins.
+Sodicord is a fork of [Equicord](https://github.com/Equicord/Equicord), with over 380+ plugins.
 
-You can join our [discord server](https://discord.gg/5Xh2W87egW) for commits, changes, chat or even support.<br><br></br>
+You can join our [discord server (not made yet)](https://github.com/tmpngit/Sodicord) for commits, changes, chat or even support.<br><br></br>
 
 ### Extra included plugins
 <details>
-<summary>149 additional plugins</summary>
+<summary>196 additional plugins</summary>
 
 ### All Platforms
 - AllCallTimers by MaxHerbold & D3SOX
@@ -155,6 +155,8 @@ You can join our [discord server](https://discord.gg/5Xh2W87egW) for commits, ch
 - Woof by Samwich
 - WriteUpperCase by Samwich & KrystalSkull
 - YoutubeDescription by arHSM
+- SodiRPC by TMPN
+- Saying some more soon
 
 ### Web Only
 - None At This Time
@@ -166,7 +168,7 @@ You can join our [discord server](https://discord.gg/5Xh2W87egW) for commits, ch
 - MediaDownloader by Colorman
 - StatusWhilePlaying by thororen
 
-### Equicord Devbuilds Only
+### Sodicord Devbuilds Only
 - FurudoSpeak by example-git
 - Shakespearean by vmohammad
 - VoiceChannelLog by Sqaaakoi & maintained by thororen
@@ -178,20 +180,10 @@ You can join our [discord server](https://discord.gg/5Xh2W87egW) for commits, ch
 ## Installing / Uninstalling
 
 Windows
-- [GUI](https://github.com/Equicord/Equilotl/releases/latest/download/Equilotl.exe)
-- [CLI](https://github.com/Equicord/Equilotl/releases/latest/download/EquilotlCli.exe)
+- [GUI](https://github.com/tmpngit/Sodicord/releases/latest/download/Sodicord.exe)
+- [CLI](https://github.com/tmpngit/Sodicord/releases/latest/download/SodicordCli.exe)
 
-MacOS
-- [GUI](https://github.com/Equicord/Equilotl/releases/latest/download/Equilotl.MacOS.zip)
-
-Linux
-- [CLI](https://github.com/Equicord/Equilotl/releases/latest/download/EquilotlCli-Linux)
-- [AUR](https://aur.archlinux.org/packages?O=0&K=equibop)
-```shell
-sh -c "$(curl -sS https://raw.githubusercontent.com/Equicord/Equicord/refs/heads/main/misc/install.sh)"
-```
-
-## Installing Equicord Devbuild
+## Installing Sodicord Devbuild
 
 ### Dependencies
 [Git](https://git-scm.com/download) and [Node.JS LTS](https://nodejs.dev/en/) are required.
@@ -206,11 +198,11 @@ npm i -g pnpm
 
 > :exclamation: **IMPORTANT** Make sure you aren't using an admin/root terminal from here onwards. It **will** mess up your Discord/Equicord instance and you **will** most likely have to reinstall.
 
-Clone Equicord:
+Clone Sodicord:
 
 ```shell
-git clone https://github.com/Equicord/Equicord
-cd Equicord
+git clone https://github.com/tmpngit/Sodicord
+cd Sodicord
 ```
 
 Install dependencies:
@@ -219,12 +211,12 @@ Install dependencies:
 pnpm install --frozen-lockfile
 ```
 
-Build Equicord:
+Build Sodicord:
 
 ```shell
 pnpm build
 ```
-Inject Equicord into your client:
+Inject Sodicord into your client:
 
 ```shell
 pnpm inject
@@ -236,11 +228,11 @@ Thank you to [Vendicated](https://github.com/Vendicated) for creating [Vencord](
 
 ## Star History
 
-<a href="https://star-history.com/#Equicord/Equicord&Timeline">
+<a href="https://star-history.com/#Sodicord/Sodicord&Timeline">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Equicord/Equicord&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Equicord/Equicord&type=Timeline" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Equicord/Equicord&type=Timeline" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Sodicord/Sodicord&type=Timeline&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Sodicord/Sodicord&type=Timeline" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Sodicord/Sodicord&type=Timeline" />
   </picture>
 </a>
 
@@ -248,17 +240,17 @@ Thank you to [Vendicated](https://github.com/Vendicated) for creating [Vencord](
 
 Discord is trademark of Discord Inc. and solely mentioned for the sake of descriptivity.
 Mentioning it does not imply any affiliation with or endorsement by Discord Inc.
-Vencord is not connected to Equicord and as such, all donation links go to Vendicated's donation link.
+Vencord is not connected to Sodicord and as such, all donation links go to Vendicated's donation link.
 
 <details>
-<summary>Using Equicord violates Discord's terms of service</summary>
+<summary>Using Sodicord violates Discord's terms of service</summary>
 
 Client modifications are against Discord’s Terms of Service.
 
 However, Discord is pretty indifferent about them and there are no known cases of users getting banned for using client mods! So you should generally be fine if you don’t use plugins that implement abusive behaviour. But no worries, all inbuilt plugins are safe to use!
 
-Regardless, if your account is essential to you and getting disabled would be a disaster for you, you should probably not use any client mods (not exclusive to Equicord), just to be safe
+Regardless, if your account is essential to you and getting disabled would be a disaster for you, you should probably not use any client mods (not exclusive to Sodicord), just to be safe
 
-Additionally, make sure not to post screenshots with Equicord in a server where you might get banned for it
+Additionally, make sure not to post screenshots with Sodicord in a server where you might get banned for it
 
 </details>
